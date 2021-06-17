@@ -11,9 +11,13 @@ Download Anaconda-Navigator and other necessary packages.
 Steps to be followed to run the project:
 
 Step 1:Open the ANACONDA-NAVIGATOR and create the required environment with necessary packages.
+
 Step 2:Open the terminal and change the directory in which the source code is currently present.
+
 Step 3:Execute the code using "python cnn_train_test.py".
+
 Step 4:Initially the images are loaded and training is performed and then necessary metrics are generated.
+
 Step 5:On Uploading the test x-ray image in the GUI,the test image is classified accordingly.
 
 
